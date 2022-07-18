@@ -7,12 +7,10 @@
 <title>GetAllEmployees</title>
 </head>
 <body>
-<form action="/FirstJSPproject/Employees" method="get">
-	
+<form action="/FirstJSPproject/ListEmployees" method="get">
+	<h1>Click View All Employees</h1>
 		 <div>
-			Do you want to view all employee details:
-			 <input type=submit name="input" value="yes">
-			 <input type=submit name="input" value="no">
+			 <input type="submit" name="input" value="VIEW">
 		</div> 
 		
 	</form>

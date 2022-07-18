@@ -7,7 +7,7 @@
 <title>Update Employee</title>
 </head>
 <body>
-<form action="/FirstJSPproject/Employees" method="Post">
+<form action="UpdateEmployee" method="post">
 		<center>
 		<div>
 		    ID: <input type='text' name='id' placeholder="Employee Id">
@@ -21,7 +21,7 @@
 			<div>
 			Salary: <input type='text' name='salary' placeholder="00.000"><br>
 			</div>
-			<input type=submit name='submit' value='update'>
+			<input type="submit" name='submit' value='update'>
 		</center>
 		</form>
 </body>

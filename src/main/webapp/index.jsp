@@ -13,13 +13,13 @@
 			<a href="/FirstJSPproject/AddNewEmployee.jsp">Add New Employee</a>
 		</div>
 		<div>
-			<a href="/FirstJSPproject/UpdateEmployee.jsp">Update Employee</a>
+			<a href="/FirstJSPproject/ModifyEmployee.jsp">Update Employee</a>
 		</div>
 		<div>
 			<a href="/FirstJSPproject/DeleteEmployee.jsp">Delete Employee</a>
 		</div>
 		<div>
-			<a href="/FirstJSPproject/GetAllEmployees.jsp">Get All Employees</a>
+			<a href="/FirstJSPproject/ListEmployees">Get All Employees</a>
 		</div>
 	</div>
 </body>

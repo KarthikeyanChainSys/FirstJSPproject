@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="/FirstJSPproject/Employees" method="post">
+<form action="/FirstJSPproject/DeleteEmployee" method="post">
              <br>
             <div style="width :50% ; margin :0 auto">
 		    ID: <input type='text' name='id' placeholder="Employee Id">

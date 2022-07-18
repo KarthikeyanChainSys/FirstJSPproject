@@ -7,7 +7,7 @@
 <title>Add new Employee</title>
 </head>
 <body>
-	<form action="/FirstJSPproject/Employees" method="post">
+	<form action="/FirstJSPproject/AddEmployee" method="post">
 	<div>
 			<label for="id">ID:</label> <input id="id" type="text" name="emp_id"
 				placeholder="Enter your ID ">
